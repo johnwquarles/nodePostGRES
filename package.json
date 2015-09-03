@@ -1,0 +1,22 @@
+{
+  "name": "nodepostgres",
+  "version": "1.0.0",
+  "description": "Same exercises as yesterday, but with PostGRES instead of SQLite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwquarles/nodePostGRES.git"
+  },
+  "author": "johnwquarles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnwquarles/nodePostGRES/issues"
+  },
+  "homepage": "https://github.com/johnwquarles/nodePostGRES#readme",
+  "dependencies": {
+    "pg": "^4.4.1"
+  }
+}
